@@ -1,2 +1,2 @@
-# C-Course
+# C++ Course
 Udemy Course on C++
