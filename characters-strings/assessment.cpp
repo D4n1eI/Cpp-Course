@@ -1,5 +1,4 @@
 #include <iostream>
-#include <bits/stdc++.h>
 #include <string>
 
 
@@ -10,34 +9,27 @@ using namespace std;
 
 
 
-
 int main(){
-    cout << "Enter a string to build the pyramid off of: ";
+    cout << "Pyramid.";
+    cout << "Enter a string: ";
+    string str{};
+    cin >> str;
 
-    string pyramid_string{};
+    int size = str.size();
 
-    cin >> pyramid_string;
 
-    int size = pyramid_string.length();
-
-    for (int i = 0 ; i < size ; i++){
-        string level{} ;
-        
-        int space_number = (size - (i+1));
-       
-
-        cout << string( space_number, ' ');
-        for (int j = 0 ; j <= i; j++){
-            level.push_back(pyramid_string[j]);
+    for (int i{0};i<size;i++){
+        cout<<string(size-i,' ');
+        for (int j{0};j<=i;j++){
+            cout<<str.at(j);
         }
-        for (int k = i; k>0 ;k--){
-            level.push_back(pyramid_string[k-1]);
+        for (int k{i-1};k>=0;k--){
+            cout<<str.at(k);
         }
-        cout << level;
-        cout <<endl;
+           
+        cout << endl;
+    
     }
-
-
 
     return 0;
 }
