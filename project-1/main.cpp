@@ -95,6 +95,10 @@ int main(){
         case 6:
             std::cout<<"Goodbye!";
             proceed=false;
+            for (Item * item : player.get_inventory()){
+                delete item;
+            }
+            break;
         default:
             break;
         }
