@@ -1,6 +1,6 @@
 # Beginning C++ Programming - From Beginner to Beyond
 
-![Udemy](https://img.shields.io/badge/Udemy-C%2FC%2B%2B%20Pointers%20%26%20Applications-A435F0?logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Beginning%20C%2B%2B%20Programming-A435F0?logo=udemy&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Language](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -42,7 +42,6 @@ This course is split into `25 different sections`:
 | **Extra Information - Source code and other stuff** | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
 
 ## Goals of this course
-
 
 Course is published here on Github [**Beginning C++ Programming - From Beginner to Beyond**](https://github.com/D4n1eI/Cpp-Course)
 
