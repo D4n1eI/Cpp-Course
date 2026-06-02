@@ -1,6 +1,6 @@
 # Beginning C++ Programming - From Beginner to Beyond
 
-![Udemy](https://img.shields.io/badge/Udemy-Beginning%20C%2B%2B%20Programming-A435F0?logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-C%2FC%2B%2B%20Pointers%20%26%20Applications-A435F0?logo=udemy&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Language](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -13,36 +13,35 @@ Course taken from Udemy: [**Beginning C++ Programming - From Beginner to Beyond*
 
 This course is split into `25 different sections`:
 
-| Section                                             | Details                                                                                                 |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Introduction**                                    | Brief introduction to C++ pointers                                                                      |
-| **Installation and Setup**                          | Covers Array basic operations, heap-based arrays and multidimensional arrays in C++                     |
-| **Curriculum Overview**                             | Guides you while building a Dynamic Array from scratch                                                  |
-| **Getting Started**                                 | Guides you while building a Singly Linked List from scratch                                             |
-| **Structure of a C++ Program**                      | Guides you while building a Doubly Linked List from scratch                                             |
-| **Variables and Constants**                         | Implementing our own String class aswell as some utility functions                                      |
-| **Arrays and Vectors**                              | Introducing pointers to functions and building arrays of function pointers on the Stack and on the Heap |
-| **Statements and Operators**                        | Pointing to class members such as functions and variables be they static/constant or not                |
-| **Controlling Program Flow**                        | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Characters and Strings**                          | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Functions**                                       | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Pointers and References**                         | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Classes and Objects**                             | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Operator Overloading**                            | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Inheritance**                                     | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Polymorphism**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Smart Pointers**                                  | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Exception Handling**                              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **I/O and Streams**                                 | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **The Standard Template Library(STL)**              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Lambda Expressions**                              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Using VSCode**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Enumerations**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Archived: Old Installation Videos**               | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
-| **Extra Information - Source code and other stuff** | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers               |
+| Section                                             | Details                                                                                                              |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Introduction**                                    | Brief introduction to C++                                                                                            |
+| **Installation and Setup**                          | Environment set up and installation                                                                                  |
+| **Curriculum Overview**                             | Overview of the course's curriculum                                                                                  |
+| **Getting Started**                                 | Building our very first C++ program                                                                                  |
+| **Structure of a C++ Program**                      | Covers core concepts of the structure of a C++ program such as the main function, namespaces, comments and basic I/O |
+| **Variables and Constants**                         | Introduction to variables and constants                                                                              |
+| **Arrays and Vectors**                              | Introduction to C-based Arrays and C++ Vectors                                                                       |
+| **Statements and Operators**                        | Introduction to statements and boolean operators                                                                     |
+| **Controlling Program Flow**                        | Exploring program flow through while,for and do while loops                                                          |
+| **Characters and Strings**                          | Introduction to characters and Strings from the standard library                                                     |
+| **Functions**                                       | Introduction to functions as the building block to every C++ program                                                 |
+| **Pointers and References**                         | Exploring pointers and references aswell as Stack and Heap initialization                                            |
+| **Classes and Objects**                             | Basic OOP concepts such as classes, objects, structs etc                                                             |
+| **Operator Overloading**                            | Overloading operators such as =,<,>,() etc                                                                           |
+| **Inheritance**                                     | Introduction to the multiple types of inheritance in C++                                                             |
+| **Polymorphism**                                    | Introduction to Polymorphism, virtual functions, abstract classes and C++ interfaces                                 |
+| **Smart Pointers**                                  | Introduction to Smart Pointers: unique_ptr, shared_ptr and weak_ptr and their applications and caveats               |
+| **Exception Handling**                              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **I/O and Streams**                                 | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **The Standard Template Library(STL)**              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **Lambda Expressions**                              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **Using VSCode**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **Enumerations**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **Archived: Old Installation Videos**               | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **Extra Information - Source code and other stuff** | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
 
 ## Goals of this course
 
-Course is published here on Github [**Beginning C++ Programming - From Beginner to Beyond**](https://github.com/D4n1eI/Cpp-Course)
-
-I chose this course as my starting point for learning C++, with a focus on understanding core programming concepts and best practices.
+Course is published here on Github [**Beginning C++ Programming - From Beginner to Beyond**](https://github.com/D4n1eI/Cpp-Course)  
+The project ideas were proposed by ChatGPT, but the solutions were implemented by me.
