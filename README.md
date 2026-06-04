@@ -33,7 +33,7 @@ This course is split into `25 different sections`:
 | **Polymorphism**                                    | Introduction to Polymorphism, virtual functions, abstract classes and C++ interfaces                                 |
 | **Smart Pointers**                                  | Introduction to Smart Pointers: unique_ptr, shared_ptr and weak_ptr and their applications and caveats               |
 | **Exception Handling**                              | Handling Exceptions with throw, try and catch. Creating our own Exception hiearchy using std::exception as root      |
-| **I/O and Streams**                                 | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
+| **I/O and Streams**                                 | Streams, File handling(input/output) and formatting basic types and strings                                          |
 | **The Standard Template Library(STL)**              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
 | **Lambda Expressions**                              | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
 | **Using VSCode**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                            |
