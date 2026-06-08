@@ -1,9 +1,13 @@
 # Beginning C++ Programming - From Beginner to Beyond
 
-![Udemy](https://img.shields.io/badge/Udemy-C%2FC%2B%2B%20Pointers%20%26%20Applications-A435F0?logo=udemy&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Udemy](https://img.shields.io/badge/Udemy-Beginning%20C%2B%2B%20Programming-A435F0?logo=udemy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Language](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)
-![License](https://img.shields.io/badge/License-MIT-green)
+
+
+## Certificate
+
+[Udemy Certificate](certificate.pdf)
 
 ## References
 
@@ -36,10 +40,10 @@ This course is split into `25 different sections`:
 | **I/O and Streams**                                 | Streams, File handling(input/output) and formatting basic types and strings                                                                                                                                                                                                              |
 | **The Standard Template Library(STL)**              | Introducing the Standard Template Library. Introductory lessons on Macro-Programming in C++ using templates then moving on to lectures on Containers(such as vectors, deques, lists, maps, sets etc), Iterators and some common data structures(such as stacks, queues, priority queues) |
 | **Lambda Expressions**                              | Introduction to Lambda expressions(stateful and stateless), functors and function pointers                                                                                                                                                                                    |
-| **Using VSCode**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                                                                                                                                                                                                |
-| **Enumerations**                                    | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                                                                                                                                                                                                |
-| **Archived: Old Installation Videos**               | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                                                                                                                                                                                                |
-| **Extra Information - Source code and other stuff** | Exploring Callbacks, Function Objects and comparing Function Objects to Function Pointers                                                                                                                                                                                                |
+| **Using VSCode**                                    | **SKIPPED**                                                                                                                                                                                                 |
+| **Enumerations**                                    | Introducing Enumerations(Scoped and Unscoped)                                                                                                                                                                                                |
+| **Archived: Old Installation Videos**               | **SKIPPED**                                                                                                                                                                                                |
+| **Extra Information - Source code and other stuff** | **SKIPPED**                                                                                                                                                                                                |
 
 ## Goals of this course
 
