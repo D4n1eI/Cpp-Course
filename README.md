@@ -13,6 +13,10 @@
 
 Course taken from Udemy: [**Beginning C++ Programming - From Beginner to Beyond**](https://www.udemy.com/course/beginning-c-plus-plus-programming/).
 
+## Disclaimer
+Some of the earlier sections of the course don't include the section .zip files provided by the course's creator, but they do contain the challenges and assessments and some code written taken directly from the course lessons.
+I plan on adding to the repository the description files to those challenges in the future for consistency sake, although the challenges were somewhat simple so they don't need much explaining. One can easily deduce what the challenge was just by reading the code snippets.
+
 ## Course content
 
 This course is split into `25 different sections`:
@@ -47,5 +51,8 @@ This course is split into `25 different sections`:
 
 ## Goals of this course
 
-Course is published here on Github [**Beginning C++ Programming - From Beginner to Beyond**](https://github.com/D4n1eI/Cpp-Course)  
-The project ideas were proposed by ChatGPT, but the solutions were implemented by me.
+Dive into modern versions of C++ and introduce myself to the language.
+
+## Projects
+I'll work on this later since I plan on doing 1 more project, combining everything I've learned after completing the course.
+
