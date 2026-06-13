@@ -1,0 +1,15 @@
+501|Goblin Camp|Easy|200|50|Available
+502|Lost Caravan|Easy|250|60|Available
+503|Ancient Ruins|Medium|500|90|Available
+504|Bandit Fortress|Medium|650|110|Available
+505|Dragon Cave|Hard|1500|180|Available
+506|Haunted Forest|Medium|550|100|Available
+507|Necromancer Tower|Hard|1800|200|Available
+508|Royal Escort|Easy|300|70|Available
+509|Spider Nest|Medium|450|95|Available
+510|Demon Rift|Extreme|3000|300|Available 
+511|Sunken Temple|Hard|1600|190|Available 
+512|Crystal Mine|Easy|220|55|Available 
+513|Wyvern Hunt|Hard|1400|175|Available
+514|Ancient Library|Medium|600|105|Available
+515|Titan Awakening|Extreme|4000|350|Available

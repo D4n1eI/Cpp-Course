@@ -1,0 +1,15 @@
+101|Warrior|Aria|12|150|40|800 
+102|Mage|Merlin|15|90|120|1200 
+103|Ranger|Sylvan|10|110|65|650
+104|Healer|Luna|13|100|70|500 
+105|Warrior|Ragnar|18|200|60|1700
+106|Mage|Elric|9|85|95|400
+107|Ranger|Nyx|11|120|70|700
+108|Healer|Seraphina|14|105|80|950
+109|Warrior|Darius|16|190|55|1450
+110|Mage|Aurelia|20|95|150|2200
+111|Ranger|Kael|8|100|55|350
+112|Healer|Mira|7|90|60|280
+113|Warrior|Thorne|13|175|45|950 
+114|Mage|Zephyr|17|88|135|1600
+115|Ranger|Rowan|12|125|72|850

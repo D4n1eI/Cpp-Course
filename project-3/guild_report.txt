@@ -1,0 +1,312 @@
+Guild Report
+============
+Total members: 15
+Total quests: 15
+Average level: 13
+Completed quests: 0
+
+Members per class:
+Warrior: 4
+Mage: 4
+Ranger: 4
+Healer: 3
+
+Strongest member:
+
+║Guild Member║║
+║id         ║║110
+║name       ║║Aurelia
+║level      ║║20
+║health     ║║95
+║goldEarned ║║150
+║class      ║║Mage
+
+
+Members:
+
+║Guild Member║║
+║id         ║║101
+║name       ║║Aria
+║level      ║║12
+║health     ║║150
+║goldEarned ║║40
+║class      ║║Warrior
+
+
+║Guild Member║║
+║id         ║║102
+║name       ║║Merlin
+║level      ║║15
+║health     ║║90
+║goldEarned ║║120
+║class      ║║Mage
+
+
+║Guild Member║║
+║id         ║║103
+║name       ║║Sylvan
+║level      ║║10
+║health     ║║110
+║goldEarned ║║65
+║class      ║║Ranger
+
+
+║Guild Member║║
+║id         ║║104
+║name       ║║Luna
+║level      ║║13
+║health     ║║100
+║goldEarned ║║70
+║class      ║║Healer
+
+
+║Guild Member║║
+║id         ║║105
+║name       ║║Ragnar
+║level      ║║18
+║health     ║║200
+║goldEarned ║║60
+║class      ║║Warrior
+
+
+║Guild Member║║
+║id         ║║106
+║name       ║║Elric
+║level      ║║9
+║health     ║║85
+║goldEarned ║║95
+║class      ║║Mage
+
+
+║Guild Member║║
+║id         ║║107
+║name       ║║Nyx
+║level      ║║11
+║health     ║║120
+║goldEarned ║║70
+║class      ║║Ranger
+
+
+║Guild Member║║
+║id         ║║108
+║name       ║║Seraphina
+║level      ║║14
+║health     ║║105
+║goldEarned ║║80
+║class      ║║Healer
+
+
+║Guild Member║║
+║id         ║║109
+║name       ║║Darius
+║level      ║║16
+║health     ║║190
+║goldEarned ║║55
+║class      ║║Warrior
+
+
+║Guild Member║║
+║id         ║║110
+║name       ║║Aurelia
+║level      ║║20
+║health     ║║95
+║goldEarned ║║150
+║class      ║║Mage
+
+
+║Guild Member║║
+║id         ║║111
+║name       ║║Kael
+║level      ║║8
+║health     ║║100
+║goldEarned ║║55
+║class      ║║Ranger
+
+
+║Guild Member║║
+║id         ║║112
+║name       ║║Mira
+║level      ║║7
+║health     ║║90
+║goldEarned ║║60
+║class      ║║Healer
+
+
+║Guild Member║║
+║id         ║║113
+║name       ║║Thorne
+║level      ║║13
+║health     ║║175
+║goldEarned ║║45
+║class      ║║Warrior
+
+
+║Guild Member║║
+║id         ║║114
+║name       ║║Zephyr
+║level      ║║17
+║health     ║║88
+║goldEarned ║║135
+║class      ║║Mage
+
+
+║Guild Member║║
+║id         ║║115
+║name       ║║Rowan
+║level      ║║12
+║health     ║║125
+║goldEarned ║║72
+║class      ║║Ranger
+
+
+Quests:
+
+║║Quest          ║║
+║id             ║║501
+║name           ║║Goblin Camp
+║difficulty     ║║Easy
+║rewardGold     ║║50
+║requiredPower  ║║200
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║502
+║name           ║║Lost Caravan
+║difficulty     ║║Easy
+║rewardGold     ║║60
+║requiredPower  ║║250
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║503
+║name           ║║Ancient Ruins
+║difficulty     ║║Medium
+║rewardGold     ║║90
+║requiredPower  ║║500
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║504
+║name           ║║Bandit Fortress
+║difficulty     ║║Medium
+║rewardGold     ║║110
+║requiredPower  ║║650
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║505
+║name           ║║Dragon Cave
+║difficulty     ║║Hard
+║rewardGold     ║║180
+║requiredPower  ║║1500
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║506
+║name           ║║Haunted Forest
+║difficulty     ║║Medium
+║rewardGold     ║║100
+║requiredPower  ║║550
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║507
+║name           ║║Necromancer Tower
+║difficulty     ║║Hard
+║rewardGold     ║║200
+║requiredPower  ║║1800
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║508
+║name           ║║Royal Escort
+║difficulty     ║║Easy
+║rewardGold     ║║70
+║requiredPower  ║║300
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║509
+║name           ║║Spider Nest
+║difficulty     ║║Medium
+║rewardGold     ║║95
+║requiredPower  ║║450
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║510
+║name           ║║Demon Rift
+║difficulty     ║║Extreme
+║rewardGold     ║║300
+║requiredPower  ║║3000
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║511
+║name           ║║Sunken Temple
+║difficulty     ║║Hard
+║rewardGold     ║║190
+║requiredPower  ║║1600
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║512
+║name           ║║Crystal Mine
+║difficulty     ║║Easy
+║rewardGold     ║║55
+║requiredPower  ║║220
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║513
+║name           ║║Wyvern Hunt
+║difficulty     ║║Hard
+║rewardGold     ║║175
+║requiredPower  ║║1400
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║514
+║name           ║║Ancient Library
+║difficulty     ║║Medium
+║rewardGold     ║║105
+║requiredPower  ║║600
+║status         ║║Available
+║assignedMember ║║0
+
+
+║║Quest          ║║
+║id             ║║515
+║name           ║║Titan Awakening
+║difficulty     ║║Extreme
+║rewardGold     ║║350
+║requiredPower  ║║4000
+║status         ║║Available
+║assignedMember ║║0
+
